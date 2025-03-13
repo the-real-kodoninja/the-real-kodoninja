@@ -1,8 +1,8 @@
 # 🚀 Emmanuel | Dev, Trader, Builder, Ghost (maybe)
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       
 ### **👤 Bio**  
 Hey, I’m **Emmanuel**—an **introvert**, but outspoken; a **creator**, but a ghost.  
@@ -14,7 +14,7 @@ I **build, sell, vanish, repeat.**
 - 🔧 Developing **[Kodoninja.app](https://kodoninja.app)** (DeFi on **Motoko** → soon **KodoCoin**).  
 
    </td>
-   <td>
+   <td style="border: none;">
 
 ### **🏆 Interests**  
 🧘 **Minimalism, Stoicism, Learning**  
@@ -29,12 +29,8 @@ I **build, sell, vanish, repeat.**
   </tr>
 </table>
 
----
-
 ## 🚀 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,hack,react,ts,js,angular,jquery,nodejs,java,perl,ruby,kotlin,rust,motoko,sql,mysql,mongodb,postgres,css,django,flask,swift,r" />
 </p>
-
----
