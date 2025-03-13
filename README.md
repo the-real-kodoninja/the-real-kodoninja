@@ -32,5 +32,5 @@ I **build, sell, vanish, repeat.**
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,hack,react,ts,js,angular,jquery,nodejs,java,perl,ruby,kotlin,rust,motoko,sql,mysql,mongodb,postgres,css,django,flask,swift,r" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,hack,react,ts,js,angular,jquery,nodejs,java,perl,ruby,kotlin,rust,motoko,sql,mysql,mongodb,postgres,css,django,flask,swift,r,motoko" />
 </p>
