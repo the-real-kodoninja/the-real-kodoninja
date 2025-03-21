@@ -23,7 +23,7 @@ I **build, sell, vanish, repeat.**
 🎸 **Music, Guitar, Keyboard**  
 🎮 **Gaming (PC, Xbox, PlayStation, Nintendo, Steam…)**  
 💻 **PC Building, Filmmaking, Editing**  
-🃏 **Collecting (Trading Cards, 🃏 **Collecting (Trading Cards, [Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/CERTIFICATIONS.md))**  
+🃏 **Collecting (Trading Cards, 🃏 **Collecting (Trading Cards, [Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/blob/main/CERTIFICATIONS.md))**  
 
    </td>
   </tr>
