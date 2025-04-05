@@ -25,12 +25,8 @@ I **build, sell, vanish, repeat.**
 💻 **PC Building, Filmmaking, Editing**  
 🃏 **Collecting (Trading Cards, 🃏 **Collecting (Trading Cards, [Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/blob/main/CERTIFICATIONS.md))**  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-kodoninja&theme=transparent&layout=compact&size_weight=0.5&hide_progress=true)](https://github.com/the-real-kodoninja)
+
    </td>
   </tr>
 </table>
-
-## 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,hack,react,ts,js,angular,jquery,nodejs,java,perl,ruby,kotlin,rust,motoko,sql,mysql,mongodb,postgres,css,django,flask,swift,r,motoko" />
-</p>
