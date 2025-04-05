@@ -17,13 +17,13 @@ I **build, sell, vanish, repeat.**
    <td style="border: none;">
 
 ### **🏆 Interests**  
-🧘 **Minimalism, Stoicism, Learning**  
-🏋️ **Fitness, Bodybuilding, CrossFit, MMA**  
-📈 **Trading, Investing, NFTs**  
-🎸 **Music, Guitar, Keyboard**  
-🎮 **Gaming (PC, Xbox, PlayStation, Nintendo, Steam…)**  
-💻 **PC Building, Filmmaking, Editing**  
-🃏 **Collecting (Trading Cards, 🃏 **Collecting (Trading Cards, [Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/blob/main/CERTIFICATIONS.md))**  
+🧘 Minimalism, Stoicism, Learning
+🏋️ Fitness, Bodybuilding, CrossFit, MMA
+📈 Trading, Investing, NFTs
+🎸 Music, Guitar, Keyboard
+🎮 Gaming (PC, Xbox, PlayStation, Nintendo, Steam…)
+💻 PC Building, Filmmaking, Editing*
+📄 Collecting [Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/blob/main/CERTIFICATIONS.md))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-kodoninja&theme=transparent&layout=compact&size_weight=0.5&hide_progress=true)](https://github.com/the-real-kodoninja)
 
