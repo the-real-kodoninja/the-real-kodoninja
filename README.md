@@ -10,9 +10,9 @@ I **code, trade, invest, and train** like I’m prepping for the Olympics.
 I **build, sell, vanish, repeat.**  
 - 🏢 Founded **[Aviyon](https://github.com/the-real-kodoninja/aviyon)** (college).  
 - 💰 Sold my first platform in high school, more in college.  
-- 🌐 Built **[Kodoninja](https://github.com/the-real-kodoninja/kodoninja)** & the **[Kodoverse](https://github.com/the-real-kodoninja/kodoverse)**, plus hidden social networks.  
-- 🔧 Developing **[Kodoninja.app](https://github.com/the-real-kodoninja/kodoninja)** (DeFi on **Motoko** on **[KDNProtocol](https://github.com/the-real-kodoninja/KDNProtocol)** soon **[KodoCoin](https://github.com/the-real-kodoninja/kodocoin)**).
-- 💻 Developing **[amity.app](https://github.com/the-real-kodoninja/amity)** and others on the **[ATProtocol]([https://github.com/bluesky-social/atproto)**
+- 🌐 Built **[Kodoninja.social](https://github.com/the-real-kodoninja/kodoninja)** & the **[Kodoverse](https://github.com/the-real-kodoninja/kodoverse)**, plus hidden social networks.  
+- 🔧 Developing **[Kodoninja.social](https://github.com/the-real-kodoninja/kodoninja)** (DeFi on **Motoko** on **[KDNProtocol](https://github.com/the-real-kodoninja/KDNProtocol)** soon **[KodoCoin](https://github.com/the-real-kodoninja/kodocoin)**).
+- 💻 Developing **[amity.social](https://github.com/the-real-kodoninja/amity)** and others on the **[ATProtocol]([https://github.com/bluesky-social/atproto)**
 - ☁ Developing **[nimbus.ai](https://github.com/the-real-kodoninja/nimbus.ai)** & **Thunderhead** TBA
 - 💃 I created **[CelebrityCrush](https://github.com/the-real-kodoninja/CelebrityCrush)** and other questionable things dont judge me lol
    </td>
