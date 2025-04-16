@@ -25,7 +25,7 @@ I **build, sell, vanish, repeat.**
 - 🎸 Music, **[guitar.ai](https://github.com/the-real-kodoninja/guitar.ai)** & **[piano.ai](https://github.com/the-real-kodoninja/piano.ai)**
 - 🎮 Gaming (PC, Xbox, PlayStation, Nintendo, Steam…)
 - 💻 PC Building, Filmmaking, Editing*
-- 📄 Collecting **[Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/blob/main/CERTIFICATIONS.md)**
+- 📄 Collecting **[Certifications](https://github.com/the-real-kodoninja/the-real-kodoninja/blob/main/Education/Certifications%20%26%20Certificates/CERTIFICATIONS.md)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-kodoninja&theme=transparent&layout=compact&size_weight=0.5&hide_progress=true)](https://github.com/the-real-kodoninja)
 
